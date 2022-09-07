@@ -1,0 +1,17 @@
+
+.page {
+    padding-right: 2px;
+    width: 100%;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    display: flex;
+    float: left;
+    justify-content: space-between
+}
+.page .left {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
